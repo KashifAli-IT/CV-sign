@@ -86,5 +86,3 @@ pip install tensorflow matplotlib opencv-python object-detection
 * Open `Tutorial.ipynb` in your Jupyter environment.
 * Follow the step-by-step execution cells to set up paths, download pre-trained checkpoints, trigger local training loops, and deploy the webcam inferencing module.
 
-```
-
