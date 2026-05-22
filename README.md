@@ -1,13 +1,10 @@
-
-
-```markdown
 # CV-Sign: Sign Language Recognition using TensorFlow Object Detection
 
 An end-to-end computer vision project focused on training a custom object detection model utilizing the TensorFlow Object Detection API. This repository handles everything from image collection, data annotation, and preprocessing to model training and evaluation.
 
 ## 📁 Repository Structure
 
-```text
+```bash
 CV-SIGN/
 │
 ├── Tensorﬂow/
@@ -90,4 +87,4 @@ pip install tensorflow matplotlib opencv-python object-detection
 * Follow the step-by-step execution cells to set up paths, download pre-trained checkpoints, trigger local training loops, and deploy the webcam inferencing module.
 
 ```
-```
+
